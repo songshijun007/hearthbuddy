@@ -10,7 +10,9 @@ hearstone script 炉石兄弟
 一、云电脑挂机教程（自己电脑跳过买服务器部分就行了）：
 
 **1、强力推荐腾讯云双ll的活动，2核4G8M，三年197元，血赚！我测试过挂兄弟没有压力**
+
 1.1.先注册腾讯云：https://curl.qcloud.com/jirxXSzX
+
 1.2.购买链接：https://curl.qcloud.com/n0tl4Aoi
 
 ![图片](https://z3.ax1x.com/2021/11/06/IMJ0OS.png)
