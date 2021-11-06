@@ -5,6 +5,7 @@ hearstone script 炉石兄弟
 防止迷路，烦请关注公众号，首发新版兄弟以及测评论各类挂机云服务器：
 
 ![图片](https://uploader.shimo.im/f/zWXlzOiKvag1Pgj6.jpg!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2MzYxNjk5NjQsImciOiJodlBYaGRwdnFYYzZ4R2NyIiwiaWF0IjoxNjM2MTY5NjY0LCJ1c2VySWQiOjM4NTc4OTMzfQ.y1odL_30UdL25eDXd3sGJ0goUSgm8G_bsqTbxKJqcbQ)
+
 一、云电脑挂机教程（自己电脑跳过买服务器部分就行了）：
 
 1、强力推荐腾讯云双ll的活动，2核4G8M，三年197元，血赚！我测试过挂兄弟没有压力
