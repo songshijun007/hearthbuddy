@@ -1,7 +1,7 @@
 # hearthbuddy
 hearstone script 炉石兄弟
 
-首先下载链接：https://wwe.lanzoui.com/iRWL7w7er5a
+首先下载链接：https://wwe.lanzoui.com/iA7q2w7opud
 
 **防止迷路，烦请关注公众号，首发新版兄弟以及测评论各类挂机云服务器：**
 
