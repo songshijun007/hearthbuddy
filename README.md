@@ -12,7 +12,7 @@ hearstone script 炉石兄弟
 1.1.先注册腾讯云：https://curl.qcloud.com/jirxXSzX
 1.2.购买链接：https://curl.qcloud.com/n0tl4Aoi
 
-![图片](https://uploader.shimo.im/f/eFr0e2zTnwgRFFrD.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2MzYxNjk5NjQsImciOiJodlBYaGRwdnFYYzZ4R2NyIiwiaWF0IjoxNjM2MTY5NjY0LCJ1c2VySWQiOjM4NTc4OTMzfQ.y1odL_30UdL25eDXd3sGJ0goUSgm8G_bsqTbxKJqcbQ)
+![图片](https://z3.ax1x.com/2021/11/06/IMJ0OS.png)
 
 2、务必！安装系统选择windows2019
 
@@ -20,4 +20,4 @@ hearstone script 炉石兄弟
 
 4、下载脚本和炉石。开始挂机，如果提示缺少visual c++，点“是”，下载一定要选择x86的，不管你的电脑是64还是32位！
 
-![图片:](https://uploader.shimo.im/f/F9qTNZAtdd6W4z21.PNG!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2MzYxNjk5NjQsImciOiJodlBYaGRwdnFYYzZ4R2NyIiwiaWF0IjoxNjM2MTY5NjY0LCJ1c2VySWQiOjM4NTc4OTMzfQ.y1odL_30UdL25eDXd3sGJ0goUSgm8G_bsqTbxKJqcbQ)
+![图片:](https://z3.ax1x.com/2021/11/06/IMJWlV.png)
