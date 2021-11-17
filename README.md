@@ -1,9 +1,9 @@
 # hearthbuddy
 hearstone script 炉石兄弟
 
-**佣兵战纪坐牢脚本：** https://github.com/songshijun007/hearstone_script
+**佣兵战纪坐牢脚本及教程：** https://github.com/songshijun007/hearstone_script
 
-首先下载链接：https://wwe.lanzoui.com/iA7q2w7opud (公众号回复：密码)
+首先炉石兄弟下载链接：https://wwe.lanzoui.com/iA7q2w7opud (公众号回复：密码)
 
 **防止迷路，烦请关注公众号，首发新版兄弟以及测评论各类挂机云服务器：**
 
